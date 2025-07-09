@@ -8,7 +8,7 @@ Bases de datos: SQL Server
 Otros: Git, GitHub, Azure DevOps, Visual Studio
 
 Algunos proyectos destacados
-Profesioanl - Eton online: https://eo.eton.edu.mx/LoginAz
+Profesional - Eton online: https://eo.eton.edu.mx/LoginAz
 Personal - Quinicuates: http://quinicuates.com/
 
 Actualmente
